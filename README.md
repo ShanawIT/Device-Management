@@ -6,7 +6,9 @@ trusted devices within an organization's identity and access management strategy
 <h2>Environments and Technologies Used</h2>
 - Okta
 <h2>Operating Systems Used </h2>
-- Windows 11
+- MacOS - Primary operating system used
+
+- Windows 11 - Familiar with performing
 <h2>Only my device is registered as an Administrator, but I can see that it's not a managed
 device within the tenant.
 </h2>
