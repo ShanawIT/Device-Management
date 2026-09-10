@@ -13,5 +13,5 @@ trusted devices within an organization's identity and access management strategy
 device within the tenant.
 </h2>
 <p>
-<img width="1076" height="377" alt="image"
-src="https://github.com/user-attachments/assets/55e28f32-58a1-4cd3-9513-6d8b4866ebbb" />
+<img width="1066" height="321" alt="Screenshot 2026-09-10 at 5 45 29 PM" src="https://github.com/user-attachments/assets/6cdba6f7-f650-4368-bb63-cb13f7f1f957" />
+
